@@ -4,6 +4,7 @@ This script will convert all video files defined into converted folder. Skipping
 This script will generate two videos and one image.
 
 Script tested with ffmpeg version 2.6.4
+
 Script tested on Scaleway C1 Arm server
 
 Download or copy this script in to linux server.
